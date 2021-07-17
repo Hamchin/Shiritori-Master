@@ -6,7 +6,7 @@ https://shiritori-master.herokuapp.com
 
 #### ~/Shiritori-Master/frontend
 
-```
+```sh
 # Setup
 $ npm install
 
@@ -20,15 +20,15 @@ $ npm run build
 $ npm run lint
 
 # Watch for changes
-# npm run watch
+$ npm run watch
 ```
 
 #### ~/Shiritori-Master/backend
 
-```
+```sh
 # Setup
 $ pip install -r ../requirements.txt
 
 # Start server for development
-$ python3 main.py
+$ python main.py
 ```

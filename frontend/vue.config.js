@@ -3,7 +3,7 @@ module.exports = {
   pages: {
     index: {
       entry: 'src/main.js',
-      title: 'しりとり最強さん',
+      title: 'しりとり最強さん'
     }
   }
-};
+}
